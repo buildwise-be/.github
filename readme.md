@@ -1,4 +1,4 @@
-![[Buildwise](https://www.buildwise.be).be](./[Buildwise](https://www.buildwise.be)_logo_Horizontaal_pos_RGB.png)
+![Buildwise.be](./Buildwise_logo_Horizontaal_pos_RGB.png)
 # Who are we?
 [Buildwise](https://www.buildwise.be) (previously BBRI) is a private research institute in Belgium founded in 1959 under impulse of the National Federation of Belgian Building Contractors in application of the so-called "De Groote" decree-law of 1947.
 
